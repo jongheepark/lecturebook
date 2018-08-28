@@ -1,9 +1,10 @@
 --- 
-title: "A Minimal Bookdown Book"
-author: "Sean Kross"
+title: "21세기 사회과학 방법론"
+author: "박종희"
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
 documentclass: book
+mainfont: NanumGothic
 bibliography: [book.bib]
 biblio-style: apalike
 link-citations: yes
@@ -12,6 +13,8 @@ url: 'http\://seankross.com/bookdown-start/'
 description: "Everything you need (and nothing more) to start a bookdown book."
 ---
 
-# Preface {-}
+# 서문 {-}
+왜 21세기 사회과학 방법론인가? 
 
-This is the very first part of the book.
+## 20세기 사회과학 방법론
+
